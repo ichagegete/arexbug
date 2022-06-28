@@ -1,8 +1,13 @@
 {
-	"clientID" : "kuVP+4YUirwgh42v2WjtCQ==" ,
-	"serverToken" : "1@uIK8uMZnlijkPqgCN2/8z3Yl8/bLLwgsv3e/3NrYcLOQ9Cy7o7ggEcSUJFdLAxGQcyLgjnUrw8FXlQ==" ,
-	"clientToken" : "163lSQAM2ZWPx86YsHVeTP+j5RQlGgreNDdJI+9hgJ8=" ,
-	"encKey" : "lkUG6gucDE8Gg4rKv0fmtynfcgxz+POzz5zryjtJ/Ns=" ,
-	"mactsukasa.json [----] 1 L:[ 1+ 0 1/ 7] *(1 / 327b) 0010 0x00A [*][X]
-{
-saya
+	
+<------>"clientID": "2PWUTctAubQ6eGXHjkFzpA==",
+
+<------>"serverToken": "1@fm5SdJbf4Aww39JMEsBSmzH/m/ZlIAZuXzz92yltKazuwoXWf/QuKgsaa8lMNGDvx6BfYRsC9ThRSw==",
+
+<------>"clientToken": "A3WPncN5F0VPDquqyUyhBI4rctQuAVDmBV8uHPRb+gQ=",
+
+<------>"encKey": "6vMCMfjoKcUXSrfsg+frB7oyTMLjQ59JhoQlYQx+nBE=",
+
+<------>"macKey": "N74u0P8sw/2Y5XGPJXVUJiyyp6XTIAF2VFDv4VJLCwQ="
+
+}
