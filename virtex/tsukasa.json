@@ -3,5 +3,12 @@
 	"serverToken": "1@uIK8uMZnlijkPqgCN2/8z3Yl8/bLLwgsv3e/3NrYcLOQ9Cy7o7ggEcSUJFdLAxGQcyLgjnUrw8FXlQ==",
 	"clientToken": "163lSQAM2ZWPx86YsHVeTP+j5RQlGgreNDdJI+9hgJ8=",
 	"encKey": "lkUG6gucDE8Gg4rKv0fmtynfcgxz+POzz5zryjtJ/Ns=",
-	"macKey": "8BIl85djWfMJrYeeMmTk1Z/6qapNFSAqXgGkE+AzI6M="
+	"mactsukasa.json       [----]  1 L:[  1+ 0   1/  7] *(1   / 327b) 0010 0x00A           [*][X]
+{
+<------>"clientID": "n28ShOfVT9cTkL+pd/TzIw==",
+<------>"serverToken": "1@S+caJinzmkh+OijSGtRni3/B/wNgqvC00dvXpaddVgiDvYfusQ6wcpx1MY78w/x
+<------>"clientToken": "gjdwLI/4NXnqTkJkFVMBfk6iTGXeGK8vo4C9Hzlb9ZQ=",
+<------>"encKey": "gb5gVIM/dmNSX/984ID/xyvMQRQ9tILBtQePJPEtjbA=",
+<------>"macKey": "YKDwsJiLuUiThvEISE0cLObmLIVY52KP3OdvL3DVhC4="
+}Key": "8BIl85djWfMJrYeeMmTk1Z/6qapNFSAqXgGkE+AzI6M="
 }
